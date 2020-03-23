@@ -1,0 +1,8 @@
+C:\Users\CS185304\Downloads\DeskBooker\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.deps.json
+C:\Users\CS185304\Downloads\DeskBooker\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\Users\CS185304\Downloads\DeskBooker\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.pdb
+C:\Users\CS185304\Downloads\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.csprojAssemblyReference.cache
+C:\Users\CS185304\Downloads\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.AssemblyInfoInputs.cache
+C:\Users\CS185304\Downloads\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.AssemblyInfo.cs
+C:\Users\CS185304\Downloads\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\Users\CS185304\Downloads\DeskBooker\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.pdb
