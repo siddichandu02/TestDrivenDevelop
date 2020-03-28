@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj": {}
+    "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj": {
+    "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj",
+        "projectUniqueName": "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj",
         "projectName": "DeskBooker.Core",
-        "projectPath": "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj",
+        "projectPath": "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj",
         "packagesPath": "C:\\Users\\CS185304\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core\\obj\\",
+        "outputPath": "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CS185304\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

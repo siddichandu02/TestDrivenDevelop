@@ -7019,11 +7019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core.Tests\\DeskBooker.Core.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core.Tests\\DeskBooker.Core.Tests.csproj",
       "projectName": "DeskBooker.Core.Tests",
-      "projectPath": "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core.Tests\\DeskBooker.Core.Tests.csproj",
+      "projectPath": "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core.Tests\\DeskBooker.Core.Tests.csproj",
       "packagesPath": "C:\\Users\\CS185304\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core.Tests\\obj\\",
+      "outputPath": "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CS185304\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7039,8 +7039,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj": {
-              "projectPath": "C:\\Users\\CS185304\\Downloads\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj"
+            "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj": {
+              "projectPath": "C:\\Users\\CS185304\\Downloads\\Projects2015\\TestDrivenDevelopment\\DeskBooker\\DeskBooker.Core\\DeskBooker.Core.csproj"
             }
           }
         }
@@ -7090,7 +7090,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
